@@ -1,0 +1,12 @@
+main: io.github.pepsidog.emotes.EmotesPlugin
+name: Emotes
+version: 1.0.0
+description: An emote plugin
+authors: [PepsiDog]
+commands:
+  emote:
+    description: Performs an emote
+    usage: /emote [emote]
+  emotelist:
+    description: Lists avaliable emotes
+    usage: /emotelist
